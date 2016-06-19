@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/bee/Project1/Test_isim_beh.exe" -prj "/home/bee/Project1/Test_beh.prj" "work.Test" 
